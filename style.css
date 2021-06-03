@@ -1,0 +1,32 @@
+body
+{
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 25px;
+}
+
+.list, #resultobject, #resultaccuracy
+{
+    color: yellow;
+    font-size: 20px;
+}
+
+hr
+{
+    width: 100%;
+    color: white;
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 2px solid black;
+}
+
